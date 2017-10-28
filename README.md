@@ -23,12 +23,12 @@ The app interface as a part of this hack, has a simple bluetooth data streaming 
 * Ionic framework (Angular framework) for mobile frontend<br>
 
 ## Costing:
-Flex sensors: 485 per piece -> each product will have 5 of these therefore, 2000 INR<br>
-HC05 Wireless bluetoothRF: 250 INR<br>
-PCB: 50 INR<br>
-Other electrical material: 150 INR<br>
+Flex sensors: 485 per piece -> each product will have 5 of these therefore, <strong>2000</strong> INR<br>
+HC05 Wireless bluetoothRF: <strong>250 INR</strong><br>
+PCB: <strong>50 INR</strong><br>
+Other electrical material: <strong>150 INR</strong><br>
 
-Total cost: 2450 INR (cost will actually go down when produced in large quantities)<br>
+Total cost: <strong>2450</strong> INR (cost will actually go down when produced in large quantities)<br>
 
 ## Progress:
 We are finished with designing the ciruit board and getting result data on our virtual arduino device. Now, we'll be starting the bluetooth module working on our device and then the mobile app interface. So yet, most of the major work is finished.
