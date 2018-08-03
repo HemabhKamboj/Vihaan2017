@@ -34,4 +34,7 @@ Total cost: <strong>2450</strong> INR (cost will actually go down when produced 
 https://drive.google.com/open?id=0B_DXTvuuVV_aa2x5Tm0yclp0N2c
 
 ## Progress:
-We are finished with designing the ciruit board and getting result data on our virtual arduino device. Now, we'll be starting the bluetooth module working on our device and then the mobile app interface. So yet, most of the major work is finished.
+We are finished with designing the ciruit board and getting result data on our virtual arduino device. Now, we'll be starting the bluetooth module working on our device and then the mobile app interface. So yet, most of the major work is finished
+
+
+ps: we reached to finals
